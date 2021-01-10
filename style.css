@@ -117,7 +117,7 @@ hr.light-100 {
     padding-bottom: .3rem;
   }
   .carousel-caption .btn {
-    font-size: 95%;
+    font-size: 90%;
     padding: 9px 18tpx;
   }
 
@@ -129,7 +129,7 @@ hr.light-100 {
 @media (max-width: 768px) {
   .carousel-caption {
 
-    top:45%;
+    top:40%;
    
   }
   .carousel-caption h1 {
@@ -138,13 +138,14 @@ hr.light-100 {
     text-shadow: 1px 1px 15px #000;
   }
   .carousel-caption h3{
-    font-size: 140%;
+    font-size: 130%;
     font-weight: 400;
 
     padding-bottom: .2rem;
   }
   .carousel-caption .btn {
-    font-size: 95%;
+    
+    font-size: 90%;
     padding: 8px 14px;
   }
   .social a {
@@ -171,6 +172,7 @@ hr.light-100 {
     padding-bottom: .2rem;
   }
   .carousel-caption .btn {
+    
     font-size: 90%;
     padding: 4px 8px;
   }
